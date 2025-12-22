@@ -1,0 +1,51 @@
+{
+  "version": "0.1.5",
+  "notes": "See the assets to download this version and install.",
+  "pub_date": "2025-12-19T10:06:17.556Z",
+  "platforms": {
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVFJaXQ0elIwWGszT1ZwaGplQ0x3dWVQdk13RG1CMHNhYkRucW5uQ3JxdWZkZTN1Sytjb3d3eFR0N1BkSlF5MlZvbXFDaGFINnF2eGgxTnhvMHoya3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NDU2CWZpbGU6U2lsdG8uYXBwLnRhci5negpjamErelNISUR3YjVKOFpaV0RCYXhRZ00xT1dqcTExekJMa283b1lVeWlaMlFqMFcyT1VzSVJnZ1VWTFhod0pVOTJLaXo1Zk9hQTJlWFE4NEZpV1FBUT09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_aarch64.app.tar.gz"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVFJaXQ0elIwWGszT1ZwaGplQ0x3dWVQdk13RG1CMHNhYkRucW5uQ3JxdWZkZTN1Sytjb3d3eFR0N1BkSlF5MlZvbXFDaGFINnF2eGgxTnhvMHoya3c4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NDU2CWZpbGU6U2lsdG8uYXBwLnRhci5negpjamErelNISUR3YjVKOFpaV0RCYXhRZ00xT1dqcTExekJMa283b1lVeWlaMlFqMFcyT1VzSVJnZ1VWTFhod0pVOTJLaXo1Zk9hQTJlWFE4NEZpV1FBUT09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_aarch64.app.tar.gz"
+    },
+    "darwin-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVlLcUp5aEZ6Q1VoUmFzUVhKQjMvN3VKYXpudTJ1eDZoTFc3OGkxT1RGZHc1akFqRkNTYlY3RFJ5SjZjV3RBSU9seGEyekRrbDBISWNva0NGSDNwWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NTQ5CWZpbGU6U2lsdG8uYXBwLnRhci5negpXUm01SmdEL0pJYzFsZytyenAvckd4K3IraHRKTHpOaUFoblJtdmFKbUFlblBnN2dKUDAxWjVrQ1JwcTNoMDdCNzk4dktQY2JsY3FnUUdjc0VsNE9Bdz09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_x64.app.tar.gz"
+    },
+    "darwin-x86_64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVlLcUp5aEZ6Q1VoUmFzUVhKQjMvN3VKYXpudTJ1eDZoTFc3OGkxT1RGZHc1akFqRkNTYlY3RFJ5SjZjV3RBSU9seGEyekRrbDBISWNva0NGSDNwWmdFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NTQ5CWZpbGU6U2lsdG8uYXBwLnRhci5negpXUm01SmdEL0pJYzFsZytyenAvckd4K3IraHRKTHpOaUFoblJtdmFKbUFlblBnN2dKUDAxWjVrQ1JwcTNoMDdCNzk4dktQY2JsY3FnUUdjc0VsNE9Bdz09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_x64.app.tar.gz"
+    },
+    "linux-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQWRiaVVpYk5KSTY4cFhYU0RrU3VYRWVJUG9qajdhcVAxM0N4NDhJSXZoRWYxSXZzRW5EdGw0M2FPazBYZnVnSFhqSENJWnhpLzNNMkg3VWE4ZDIzS3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NjMwCWZpbGU6U2lsdG9fMC4xLjVfYW1kNjQuQXBwSW1hZ2UKUjdHVzc2N2x6QVlhSlNNZ1NzZGQvbk5TSS91L1BZVktvZGFqM1hmUmp0c0NBcE9kRTlzazFLZnFyZVIwamFIWitQelR6TUlmTzZNTFZ5R0VzM2kyQmc9PQo=",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_amd64.AppImage"
+    },
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQWRiaVVpYk5KSTY4cFhYU0RrU3VYRWVJUG9qajdhcVAxM0N4NDhJSXZoRWYxSXZzRW5EdGw0M2FPazBYZnVnSFhqSENJWnhpLzNNMkg3VWE4ZDIzS3dzPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NjMwCWZpbGU6U2lsdG9fMC4xLjVfYW1kNjQuQXBwSW1hZ2UKUjdHVzc2N2x6QVlhSlNNZ1NzZGQvbk5TSS91L1BZVktvZGFqM1hmUmp0c0NBcE9kRTlzazFLZnFyZVIwamFIWitQelR6TUlmTzZNTFZ5R0VzM2kyQmc9PQo=",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVRldXRSQXBudFlvSjZmNEZJZnBUVU90L3ppTnVpcFNsUUdydWhkSWdkSHVLcFQ2ajFUZUF6dm5ZdTMvOGx5cUlkeXc4dDd6SkhKZnlTQ0hueDlhMGdJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NjMwCWZpbGU6U2lsdG9fMC4xLjVfYW1kNjQuZGViCnlqOG1YNEFDN2h3ZTdicWViMnk2SURYRGF6N2IrTUJqQU5qc1dPRkJWTmFaa1dZakR2Nzl1VkRDblAzWW94R1lHS2NXRXg0MmpxZytkemVpS3R4dENBPT0K",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_amd64.deb"
+    },
+    "linux-x86_64-rpm": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVFFd1JsWWgwS3Z5TzFiTGd5UGl3eWJWcG9rNnhDNEF2bEFSL1VRYmI5VnhIc0dkZWxUaEZ6cFhDK2l4MUEzSVdDUG9RbVVsSXlSdThSd2J3MUJxZmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NjMwCWZpbGU6U2lsdG8tMC4xLjUtMS54ODZfNjQucnBtClN0RTVyQm56K1JQOEZMQllSRmpzNVd4YkRIZUkwT0JhMTRZbFRUckFqblhOYWR5SXVVYmM5ZFhEY2dkMEZubVVuVk5KeWxzSVMyaFR1RmRybk9YUUF3PT0K",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto-0.1.5-1.x86_64.rpm"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVJIb0N2b0orS0ZvZVJqcW1jL2Nmc2ZGUWh0RVdUbEU1OEM3U2V1ejVlV2xNK2wxMXgvVWxyQ2tkYnR5Tm95VEVVNTUvRGJJN2pQU3RSaHQ3WndqeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NzczCWZpbGU6U2lsdG9fMC4xLjVfeDY0X2VuLVVTLm1zaQp0T0dWZUk5a0VyNm9nM0VINEovQVVkQ2RHb3FNVW5hWWtSNERtbnVDeHBZQ3BDUDZ2cEdtY01COXJkUVYrT3lNeGZqU2ZBNHlJTjdid3hnRE5XVFlEQT09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_x64_en-US.msi"
+    },
+    "windows-x86_64-msi": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVJIb0N2b0orS0ZvZVJqcW1jL2Nmc2ZGUWh0RVdUbEU1OEM3U2V1ejVlV2xNK2wxMXgvVWxyQ2tkYnR5Tm95VEVVNTUvRGJJN2pQU3RSaHQ3WndqeXdrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NzczCWZpbGU6U2lsdG9fMC4xLjVfeDY0X2VuLVVTLm1zaQp0T0dWZUk5a0VyNm9nM0VINEovQVVkQ2RHb3FNVW5hWWtSNERtbnVDeHBZQ3BDUDZ2cEdtY01COXJkUVYrT3lNeGZqU2ZBNHlJTjdid3hnRE5XVFlEQT09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_x64_en-US.msi"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTUWtEVFlkZ2ZzQVF6U2xCT2RkdlNTVkJLUUEwTU1xUVhBOVpoL1Z1TlM2dFlkRFZEOXM5bmg3emc3T2l1U2NMc3l6T3VOT01Pdk4xQndOUTB2OGZaSzc5VjUrT1AvUUFRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY2MTM4NzczCWZpbGU6U2lsdG9fMC4xLjVfeDY0LXNldHVwLmV4ZQpUNXJUK255RitCeldCTHg1MkszY3RLL1hySC9tMWhLQXpTZFNxV3F4aFBtWHptcGU5NzViQ3hJajdLUnRPMURSTmJaNFhHNHZsNkxwZSs3elhPbitBUT09Cg==",
+      "url": "https://github.com/silfoxs/silto/releases/download/untagged-635e283a8772ec8efc5a/Silto_0.1.5_x64-setup.exe"
+    }
+  }
+}
